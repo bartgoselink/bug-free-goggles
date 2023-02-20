@@ -1,0 +1,6 @@
+{
+  "require": {
+    "spacy/spacy": "^2.8"
+  }
+}
+
